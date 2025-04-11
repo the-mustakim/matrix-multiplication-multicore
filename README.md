@@ -5,6 +5,7 @@ This project implements matrix multiplication using:
 2. Parallel CPP using OpenMP
 
 ## 🔧 Project Structure
+
 matrix-multiplication-multicore/
 │
 ├── java/
