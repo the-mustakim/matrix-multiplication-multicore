@@ -38,7 +38,7 @@ java StrassenMultithreaded
 
 ### 💻 Compile & Run
 ```bash
-gcc -fopenmp StrassenOMP.cpp -o StrassenOMP
+g++ -fopenmp StrassenOMP.cpp -o StrassenOMP
 ./StrassenOMP
 ```
 
