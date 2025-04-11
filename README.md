@@ -12,7 +12,7 @@ This project demonstrates efficient multiplication of large dense matrices using
 ```
 .
 ├── StrassenMultithreaded.java       # Java implementation
-├── StrassenOMP.cpp                    # C/OpenMP implementation
+├── StrassenOMP.cpp                  # Cpp/OpenMP implementation
 ├── report.docx                      # Design, analysis, and results
 └── README.md                        # Project documentation
 ```
