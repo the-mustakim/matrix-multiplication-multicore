@@ -61,7 +61,7 @@ gcc -fopenmp StrassenOMP.cpp -o StrassenOMP
 
 ### ✅ Test Parameters
 - **Matrix Sizes:** 500x500, 1000x1000, 2000x2000  
-- **Core Counts:** 2, 4, 8
+- **Core Counts:** 2, 4, 6
 
 ### 📈 Metrics Collected
 - Execution Time
